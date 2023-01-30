@@ -4,3 +4,17 @@ __pycache__
 *.pytest_cache
 .gitattributes
 !*.zip
+	.Movie_Genre_ROI.png
+	.Movie_Rating_ROI.png
+	.Movie_Rating_ROI_lmt.png
+	.Movie_Role_ROI.png
+	.Movie_Runtime_ROI.png
+	.Movie_Runtime_ROI_lmt.png
+	.Phase_1_Final_project.pdf
+	.student_old.ipynb
+	.zippedData/bom.movie_gross.csv
+	.zippedData/im.db
+	.zippedData/rt.movie_info.tsv
+	.zippedData/rt.reviews.tsv
+	.zippedData/tmdb.movies.csv
+	.zippedData/tn.movie_budgets.csv
