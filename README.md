@@ -1,9 +1,9 @@
 ## Instructions for Navigation
 
 This repository contains:
-* A [jupyter notebook with](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/student.ipynb) the data analysis
-* A [PDF](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/Phase_1_Final_project.pdf) of the presentation for the business stakeholders.
-* The data [sources](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/tree/master/zippedData) located in a folder called zipped data.
+* A [jupyter notebook with](student.ipynb) the data analysis
+* A [PDF](Phase_1_Final_project.pdf) of the presentation for the business stakeholders.
+* The data [sources](zippedData) located in a folder called zipped data.
 
 # Overview
 
@@ -27,32 +27,32 @@ The data from these sources were joined to determine the effects of the followin
 #### Ratings
 There was no correlation between ratings and ROI.
 
-![Ratings versus ROI](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/Movie_Rating_ROI.png)
+![Ratings versus ROI](images/Movie_Rating_ROI.png)
 
 When removing the outliers, only a weak correlation was found.
 
-![Ratings versus ROI limited](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/Movie_Rating_ROI_lmt.png)
+![Ratings versus ROI limited](images/Movie_Rating_ROI_lmt.png)
 
 #### Runtime
 
 There was no correlation between runtime and ROI even after removing outliers.
 
 
-![Runtime versus ROI](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/Movie_Runtime_ROI.png)
+![Runtime versus ROI](images/Movie_Runtime_ROI.png)
 
 No correlation after removing outliers.
 
-![Ratings versus ROI limited](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/Movie_Runtime_ROI_lmt.png)
+![Ratings versus ROI limited](images/Movie_Runtime_ROI_lmt.png)
 
 #### Genres
 The ROI of different movies was group by the different genres of movies and aggregated by the mean. Through this analysis, we determined that Horror, Mysteries, and thrillers have the highest ROI of the genres.
 
-![Genre vs ROI](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/Movie_Genre_ROI.png)
+![Genre vs ROI](images/Movie_Genre_ROI.png)
 
 #### Roles
 
 Next we grouped the ROI by the different roles in a movie production  aggregated by the mean. Through this analysis, we determined that the assistant, casting manager, and manager are associated with the highest ROI on average.
-![Role vs ROI](https://github.com/dragunat2016/dsc-phase-1-project-v2-4/blob/master/Movie_Role_ROI.png)
+![Role vs ROI](images/Movie_Role_ROI.png)
 
 
 #### Conclusion
