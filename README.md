@@ -27,32 +27,32 @@ The data from these sources were joined to determine the effects of the followin
 #### Ratings
 There was no correlation between ratings and ROI.
 
-![Ratings versus ROI](images/Movie_Rating_ROI.png)
+![Ratings versus ROI](Images/Movie_Rating_ROI.png)
 
 When removing the outliers, only a weak correlation was found.
 
-![Ratings versus ROI limited](images/Movie_Rating_ROI_lmt.png)
+![Ratings versus ROI limited](Images/Movie_Rating_ROI_lmt.png)
 
 #### Runtime
 
 There was no correlation between runtime and ROI even after removing outliers.
 
 
-![Runtime versus ROI](images/Movie_Runtime_ROI.png)
+![Runtime versus ROI](Images/Movie_Runtime_ROI.png)
 
 No correlation after removing outliers.
 
-![Ratings versus ROI limited](images/Movie_Runtime_ROI_lmt.png)
+![Ratings versus ROI limited](Images/Movie_Runtime_ROI_lmt.png)
 
 #### Genres
 The ROI of different movies was group by the different genres of movies and aggregated by the mean. Through this analysis, we determined that Horror, Mysteries, and thrillers have the highest ROI of the genres.
 
-![Genre vs ROI](images/Movie_Genre_ROI.png)
+![Genre vs ROI](Images/Movie_Genre_ROI.png)
 
 #### Roles
 
 Next we grouped the ROI by the different roles in a movie production  aggregated by the mean. Through this analysis, we determined that the assistant, casting manager, and manager are associated with the highest ROI on average.
-![Role vs ROI](images/Movie_Role_ROI.png)
+![Role vs ROI](Images/Movie_Role_ROI.png)
 
 
 #### Conclusion
